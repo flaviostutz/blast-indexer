@@ -1,8 +1,8 @@
 # blast-indexer
 
-Blast indexer container. Blast is a full text search server on top of Bleeve (http://blevesearch.com).
+Blast indexer container. Blast is a full text search server on top of Bleve (http://blevesearch.com).
 
-You can use Blast/Bleeve as a lightweight alternative to Elasticsearch.
+You can use Blast/Bleve as a lightweight alternative to Elasticsearch.
 
 See more about Blast API and capabilities at https://github.com/mosuka/blast
 
