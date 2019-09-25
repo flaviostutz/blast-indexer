@@ -1,0 +1,10 @@
+version: '3.7'
+
+services:
+
+  blast-indexer1:
+    build: .
+    ports:
+      - 5000:5000
+      - 6000:6000
+      - 8000:8000
