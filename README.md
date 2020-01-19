@@ -19,6 +19,8 @@ services:
     image: flaviostutz/blast-indexer
     ports:
       - 6000:6000
+    volumes:
+      - /yourvolumedir:/data
 ```
 
 * Index sample documents
